@@ -1,4 +1,4 @@
-#React JWT AUth API
+# React JWT AUth API
 -> Just run `npm start` and run `php artisan serve` for laravel project and make sure chrome `Cross-origin resource sharing` in on.
 
 
